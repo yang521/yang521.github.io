@@ -1,7 +1,7 @@
 ---
 title: "Accepted works in years 2018-2020"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2008-researchworks
 excerpt: 'Publications in 2021 are listed in this section.'
 date: 2020-01-01 - 2020-12-31
 venue: #'Journal 1'
