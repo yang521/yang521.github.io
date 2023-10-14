@@ -31,9 +31,9 @@ Present research topics (selected)
 * Computational Fluid Algorithms:
   1. Structure-preserving time-marching schemes for the incompressible Navier-Stokes equations;
   2. Finite volume method for the fluid flows on surfaces with direct discretization;
-  3. Finite volume lattice Boltzmann algorithm for fluid flows on curved surfaces;
+  3. Finite volume lattice Boltzmann algorithms for fluid flows on curved surfaces;
   4. Closest point-type finite difference method for the Navier-Stokes equations on surfaces;
-  5. Efficient and high-order accurate algorithms for fluid-structure interaction.
+  5. Efficient and high-order accurate algorithms for fluid-structure interactions.
 * Numerical Simulations of Multi-phase Fluids:
   1. Strongly stable numerical methods for two-phase flows with large desnity ratio and high Reynolds number;
   2. Energy-stable and linear schemes for multi-phase flows with variable density and viscosity;
@@ -48,7 +48,7 @@ Present research topics (selected)
   5. Energy-stable computations for copolymers in irregular regions.
 * Image Processing and Volume Reconstruction:
   1. Maximum principle-preserving numerical methods for phase-field models of image segmentation;
-  2. Uncondditionally stable numerical methods for phase-field models of 3D volume reconstruction;
+  2. Unconditionally stable numerical methods for phase-field models of 3D volume reconstruction;
   3. Lattice Boltzmann-Threshold dynamics methods for image proccessing.
 * Numerical Methods for Partial Differential Equations:
   1. Error estimations of convex splitting-type methods for the Swift-Hohenberg equations;
