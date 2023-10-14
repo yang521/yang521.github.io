@@ -17,12 +17,13 @@ Prof. Yang is an Assistant Professor in School of Computer Science and Technolog
 
 博士期間被中國駐韓大使館教育處評為2020年度優秀在韓國家公派留學人員；入選2022年度博士後國際交流計劃引進項目。
 
-A data-driven personal website
+Introduction of PF_CFD Lab
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+PF_CFD Lab (相場_計算流體動力學 課題組) aims to develop high-performance mathematical models and computational algorithms in science and engineering. As a leader of my lab, I have published more than 70 SCI papers from 2018 and accumulated related experiences and skills in the fileds of phase-field method and incompressible fluid simulations. Moreover, I am also interested in immersed boundary method, level-set method, lattice Boltzmann method, image processing, 3D volume reconstruction, and digital twins. 
 
+In my homepage, I provide several simple but practical MATLAB codes for interested readers or students. These codes can be used to simulate phase-field Cahn-Hilliard dynamics, Fluid flows, square phase-field crystal dynamics, dendritic growth, Natural convection, and Image segmentation, etc. I will update other open source codes in the future. In the Publications, I only provide the papers as first or corresponding author. For more details of my publications, please refer to my [ResearchGate page](https://www.researchgate.net/profile/Junxiang-Yang-2). 
 
-Getting started
+Research topics in my Lab
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -31,18 +32,6 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
 Open positions / 招生信息
 ------
@@ -50,7 +39,7 @@ Master degree in Applied Mathematics openings on computational physics (fluids, 
 
 For the students who want to study numerical simulations with me, the prerequisites are: Calculus (Advanced Mathematics), Linear Algebra, and College Physics.  Mastering C program, MATLAB,  Latex  and passing a numerical analysis course are recommended. 
 
-Recently, I have prepared more than 40 research topics, 欢迎數學、力學、物理、計算機和機械工程類專業的本科同學報考碩士課程！若有意向，請提前通過郵件 jxyang@must.edu.mo 聯繫我，謝謝關注！
+Recently, I have prepared more than 40 research topics, 欢迎數學、力學、物理、計算機和機械工程類專業的本科同學報考碩士課程！招生長期有效！若有意向，請提前通過郵件 jxyang@must.edu.mo 聯繫我，謝謝關注！
 
 Note: 水利數字孿生將作為本課題組未來的研究方向之一，歡迎水利工程、土木工程和海洋工程等專業的同學報考！
 
