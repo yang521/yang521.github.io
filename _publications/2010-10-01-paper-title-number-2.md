@@ -1,5 +1,5 @@
 ---
-title: "Year 2022"
+title: "Accepted works in year 2022"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Publications in 2022 are listed in this section.'
