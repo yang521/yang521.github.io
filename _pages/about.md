@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (MUST). Before he joined MUST, he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling .  He has published 55 SCI papers as first or corresponding author from 2018.  
 
-If you want to join us, please contact me! My E-mail address is jxyang@must.edu.mo
+If you are willing to join us, please contact me! My E-mail address is jxyang@must.edu.mo
 
 已主持科研項目如下：
 
