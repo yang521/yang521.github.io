@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Physics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "MUST"
+date: 2023.09 - 2023.12
+location: "Macao SAR, Chiba"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a core course for undergraduate students (level 2).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
