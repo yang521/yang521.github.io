@@ -1,9 +1,9 @@
 ---
 permalink: /
 title: "Junxiang Yang's Team for computational physics and mathematics"
+excerpt: "<br/><img src='/images/JXYang.png' width='100px'>"
 excerpt: "About me"
 author_profile: true
-excerpt: "<br/><img src='/images/JXYang.png' width='100px'>"
 redirect_from: 
   - /about/
   - /about.html
