@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Junxiang Yang's Team for computational physics and mathematics"
-excerpt: "<br/><img src='/images/JXYang.png' width='100px'>"
+excerpt: #"<br/><img src='/images/JXYang.png' width='100px'>"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (MUST). Before he joined MUST, he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling. He has published 55 SCI papers as first or corresponding author from 2018.  
+Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (MUST 澳門科技大學). Before he joined MUST, he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling. He has published 55 SCI papers as first or corresponding author from 2018.  
 
 If you are willing to join us, please contact me! My E-mail address is jxyang@must.edu.mo
 
@@ -20,7 +20,7 @@ If you are willing to join us, please contact me! My E-mail address is jxyang@mu
 
 博士期間被中國駐韓大使館教育處評為2020年度優秀在韓國家公派留學人員；入選2022年度博士後國際交流計劃引進項目。
 
-Introduction of PF_CFD Lab
+Introduction of PF_CFD Team
 ======
 PF_CFD Team (相場_計算流體動力學 課題組) aims to develop high-performance mathematical models and computational algorithms in science and engineering. As a leader of my lab, I have published more than 70 SCI papers from 2018 and accumulated related experiences and skills in the fileds of phase-field method and incompressible fluid simulations. Moreover, I am also interested in immersed boundary method, level-set method, lattice Boltzmann method, image processing, 3D volume reconstruction, and digital twins. 
 
