@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied Mathematics, Korea University (高麗大學), 2021, Advisor: Prof. Junseok Kim
-* M.S. in Applied Mathematics, Korea University (高麗大學), 2019, Advisor: Prof. Junseok Kim
+* Ph.D in Applied Mathematics, Seoul, Korea University (高麗大學/韓國), 2021, Advisor: Prof. Junseok Kim
+* M.S. in Applied Mathematics, Seoul, Korea University (高麗大學/韓國), 2019, Advisor: Prof. Junseok Kim
 * B.E. in Naval Architecture and Ocean Engineering, Chongqing Jiaotong University (重慶交通大學), 2017
 
 Work experience
