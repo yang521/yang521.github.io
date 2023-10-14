@@ -49,7 +49,7 @@ Present research topics (selected)
 * Image Processing and Volume Reconstruction:
   1. Maximum principle-preserving numerical methods for phase-field models of image segmentation;
   2. Unconditionally stable numerical methods for phase-field models of 3D volume reconstruction;
-  3. Lattice Boltzmann-Threshold dynamics methods for image proccessing.
+  3. Lattice Boltzmann-Threshold dynamics methods for image processing.
 * Numerical Methods for Partial Differential Equations:
   1. Error estimations of convex splitting-type methods for the Swift-Hohenberg equations;
   2. Adaptive narrow band algorithms for solving Allen-Cahn and Cahn-Hilliard equations;
