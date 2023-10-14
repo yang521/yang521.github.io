@@ -34,7 +34,7 @@ Research topics in my Lab
 
 
 Open positions / 招生信息
-------
+======
 Master degree in Applied Mathematics openings on computational physics (fluids, biology, and materials) and numerical methods for partial differential equations (PDEs). Undergraduate students should contact Prof. Yang and apply to School of Computer Science and Engineering at Macau University of Science and Technology. 
 
 For the students who want to study numerical simulations with me, the prerequisites are: Calculus (Advanced Mathematics), Linear Algebra, and College Physics.  Mastering C program, MATLAB,  Latex  and passing a numerical analysis course are recommended. 
