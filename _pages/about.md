@@ -26,7 +26,7 @@ PF_CFD Lab (相場_計算流體動力學 課題組) aims to develop high-perform
 
 In my homepage, I provide several simple but practical MATLAB codes for interested readers or students. These codes can be used to simulate phase-field Cahn-Hilliard dynamics, Fluid flows, square phase-field crystal dynamics, dendritic growth, Natural convection, and Image segmentation, etc. I will update other open source codes in the future. In the Publications, I only provide the papers as first or corresponding author. For more details of my publications, please refer to my [ResearchGate page](https://www.researchgate.net/profile/Junxiang-Yang-2). Some interesting simulation results are pasted in Portfolio. 
 
-Present research topics
+Present research topics (selected)
 ======
 * Computational Fluid Algorithms:
   1. Structure-preserving time-marching schemes for the incompressible Navier-Stokes equations;
