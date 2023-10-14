@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Professional Ethics and Communication Skills"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "MUST"
+date: 2023.09 - 2023.12
+location: "Macao SAR, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a core course for undergraduate students (level 2).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
