@@ -21,7 +21,7 @@ Introduction of PF_CFD Lab
 ======
 PF_CFD Lab (相場_計算流體動力學 課題組) aims to develop high-performance mathematical models and computational algorithms in science and engineering. As a leader of my lab, I have published more than 70 SCI papers from 2018 and accumulated related experiences and skills in the fileds of phase-field method and incompressible fluid simulations. Moreover, I am also interested in immersed boundary method, level-set method, lattice Boltzmann method, image processing, 3D volume reconstruction, and digital twins. 
 
-In my homepage, I provide several simple but practical MATLAB codes for interested readers or students. These codes can be used to simulate phase-field Cahn-Hilliard dynamics, Fluid flows, square phase-field crystal dynamics, dendritic growth, Natural convection, and Image segmentation, etc. I will update other open source codes in the future. In the Publications, I only provide the papers as first or corresponding author. For more details of my publications, please refer to my [ResearchGate page](https://www.researchgate.net/profile/Junxiang-Yang-2). 
+In my homepage, I provide several simple but practical MATLAB codes for interested readers or students. These codes can be used to simulate phase-field Cahn-Hilliard dynamics, Fluid flows, square phase-field crystal dynamics, dendritic growth, Natural convection, and Image segmentation, etc. I will update other open source codes in the future. In the Publications, I only provide the papers as first or corresponding author. For more details of my publications, please refer to my [ResearchGate page](https://www.researchgate.net/profile/Junxiang-Yang-2). Some interesting simulation results are pasted in Portfolio. 
 
 Research topics in my Lab
 ======
