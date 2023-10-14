@@ -26,15 +26,35 @@ PF_CFD Lab (相場_計算流體動力學 課題組) aims to develop high-perform
 
 In my homepage, I provide several simple but practical MATLAB codes for interested readers or students. These codes can be used to simulate phase-field Cahn-Hilliard dynamics, Fluid flows, square phase-field crystal dynamics, dendritic growth, Natural convection, and Image segmentation, etc. I will update other open source codes in the future. In the Publications, I only provide the papers as first or corresponding author. For more details of my publications, please refer to my [ResearchGate page](https://www.researchgate.net/profile/Junxiang-Yang-2). Some interesting simulation results are pasted in Portfolio. 
 
-Research topics in my Lab
+Present research topics
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+* Computational Fluid Algorithms:
+  1. Structure-preserving time-marching schemes for the incompressible Navier-Stokes equations;
+  2. Finite volume method for the fluid flows on surfaces with direct discretization;
+  3. Finite volume lattice Boltzmann algorithm for fluid flows on curved surfaces;
+  4. Closest point-type finite difference method for the Navier-Stokes equations on surfaces;
+  5. Efficient and high-order accurate algorithms for fluid-structure interaction.
+* Numerical simulations of multi-phase fluids:
+  1. Strongly stable numerical methods for two-phase flows with large desnity ratio and high Reynolds number;
+  2. Energy-stable and linear schemes for multi-phase flows with variable density and viscosity;
+  3. Accurate, stable, and efficient algorithms for multi-phase fluids in complex domains;
+  4. Multi-physics coupled fluid modeling and the associated numerical computations;
+  5. Hybrid phase-field / lattice Boltzmann / immersed boundary methods in complex fluid simulations.
+* Computational biology and material sciences:
+  1. Phase-field modeling of red blood cell and its structure-preserving algorithms;
+  2. Immersed boundary-diffuse interface method for simulating cell division;
+  3. Mathematical modeling of tumor growth and tissue growth;
+  4. Accurate and highly efficient algorithms for crystal and quasi-crystal models;
+  5. Energy-stable computations for copolymers in irregular regions.
+* Image processing and volume reconstruction:
+  1. Maximum principle-preserving numerical methods for phase-field models of image segmentation;
+  2. Uncondditionally stable numerical methods for phase-field models of 3D volume reconstruction;
+  3. Lattice Boltzmann-Threshold dynamics methods for image proccessing.
+* Numerical methods for partial differential equations:
+  1. Error estimations of convex splitting-type methods for the Swift-Hohenberg equations;
+  2. Adaptive narrow band algorithms for solving Allen-Cahn and Cahn-Hilliard equations;
+  3. Novel explicit and practically stable methods for gradient flow problems;
+  4. Multigrid algorithms for accelerating the convergence.
 
 Open positions / 招生信息
 ======
