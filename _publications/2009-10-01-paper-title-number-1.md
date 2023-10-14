@@ -17,7 +17,7 @@ citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
 
 4. Junxiang Yang, Junseok Kim*, An efficient stabilized mutliple auxiliary variables method for the Cahn-Hilliard-Darcy two-phase flow system, Computers and Fluids, Vol. 223, 104948, 2021. IF: 3.077 Q2
 
-5. Junxiang Yang, Junseok Kim*, Energy dissipation–preserving time-dependent auxiliary variable method for the phase-field crystal and the Swift-Hohenberg models, Numerical Algorithms, Vol. 89,1865-1894, 2022. IF: 2.370 Q1
+5. Junxiang Yang, Junseok Kim*, Energy dissipation–preserving time-dependent auxiliary variable method for the phase-field crystal and the Swift-Hohenberg models, Numerical Algorithms, Vol. 89,1865-1894, 2021. IF: 2.370 Q1
 
 6. Junxiang Yang, Junseok Kim*, The linear and energy stable schemes for the Swift-Hohenberg equation with quadratic-cubic nonlinearity based on a modified scalar auxiliary variable (SAV) approach, Journalof Engineering Mathematics, Vol. 128, 21, 2021. IF: 1.444 Q4
 
