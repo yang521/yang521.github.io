@@ -34,23 +34,23 @@ Present research topics (selected)
   3. Finite volume lattice Boltzmann algorithm for fluid flows on curved surfaces;
   4. Closest point-type finite difference method for the Navier-Stokes equations on surfaces;
   5. Efficient and high-order accurate algorithms for fluid-structure interaction.
-* Numerical simulations of multi-phase fluids:
+* Numerical Simulations of Multi-phase Fluids:
   1. Strongly stable numerical methods for two-phase flows with large desnity ratio and high Reynolds number;
   2. Energy-stable and linear schemes for multi-phase flows with variable density and viscosity;
   3. Accurate, stable, and efficient algorithms for multi-phase fluids in complex domains;
   4. Multi-physics coupled fluid modeling and the associated numerical computations;
   5. Hybrid phase-field / lattice Boltzmann / immersed boundary methods in complex fluid simulations.
-* Computational biology and material sciences:
+* Computational Biology and Material Sciences:
   1. Phase-field modeling of red blood cell and its structure-preserving algorithms;
   2. Immersed boundary-diffuse interface method for simulating cell division;
   3. Mathematical modeling of tumor growth and tissue growth;
   4. Accurate and highly efficient algorithms for crystal and quasi-crystal models;
   5. Energy-stable computations for copolymers in irregular regions.
-* Image processing and volume reconstruction:
+* Image Processing and Volume Reconstruction:
   1. Maximum principle-preserving numerical methods for phase-field models of image segmentation;
   2. Uncondditionally stable numerical methods for phase-field models of 3D volume reconstruction;
   3. Lattice Boltzmann-Threshold dynamics methods for image proccessing.
-* Numerical methods for partial differential equations:
+* Numerical Methods for Partial Differential Equations:
   1. Error estimations of convex splitting-type methods for the Swift-Hohenberg equations;
   2. Adaptive narrow band algorithms for solving Allen-Cahn and Cahn-Hilliard equations;
   3. Novel explicit and practically stable methods for gradient flow problems;
