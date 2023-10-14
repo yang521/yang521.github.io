@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PF_CFD Lab at MUST"
+title                    : "PF_CFD Team at MUST"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
