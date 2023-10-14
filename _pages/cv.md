@@ -46,7 +46,7 @@ Methods in Applied Mechanics and Engineering, Vol. 401, 115675, 2022. IF: 6.588 
 binary creeping flows in contact with solid, Computer Methods in Applied Mechanics and Engineering, Vol.
 414, 116180, 2023. IF: 6.588  Q1 (中科院一區top)
 * Junxiang Yang, Junseok Kim*, Phase-field simulation of multiple fluid vesicles with a consistently energy-
-stable implicit-explicit method, Computer Methods in Applied Mechanics and Engineering, in press. IF: 6.588
+stable implicit-explicit method, Computer Methods in Applied Mechanics and Engineering, Vol. 417, 116403, 2023. IF: 6.588
 Q1 (中科院一區top)
 * Junxiang Yang, Yibao Li, Junseok Kim*, A practical finite difference scheme for the Navier-Stokes equation on
 curved surfaces in R3, Journal of Computational Physics, Vol. 411, 109403, 2020. IF: 4.645  Q1 (中科院一區)
