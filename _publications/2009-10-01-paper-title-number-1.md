@@ -38,3 +38,5 @@ numerical methods for the conservative Swift-Hohenberg model, Computers & Mathem
 Applications, Vol. 102, 160-174, 2021. IF: 3.218 Q1
 
 13. Junxiang Yang, Junseok Kim*, The stabilized-trigonometric scalar auxiliary variable approach for gradient flows and its efficient schemes, Journal of Engineering Mathematics, Vol. 129, 18, 2021. IF: 1.444 Q4
+
+14. Junxiang Yang, Junseok Kim*, Efficient and structure-preserving time-dependent auxiliary variable method for a conservative Allen–Cahn type surfactant system, Engineering with Computers, Vol. 38, 5231-5250, 2022. IF: 8.083 Q1
