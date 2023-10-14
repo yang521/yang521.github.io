@@ -69,3 +69,6 @@ incompressible conservative Allen-Cahn fluids, Engineering with Computers, Vol. 
 8.083 Q1
 
 20. Junxiang Yang, Junseok Kim*, Numerical simulation and analysis of the Swift-Hohenberg equation by the stabilized Lagrange multiplier approach, Computational and Applied Mathematics, Vol. 41, 20, 2022. IF: 2.998 Q1
+
+21. Junxiang Yang, Yibao Li, Chaeyoung Lee, Hyun Geun Lee, Soobin Kwak, Youngjin Hwang, Xuan Xin, Junseok
+Kim*, An explicit conservative Saul'yev scheme for the Cahn-Hilliard equation, International Journal of Mechanical Sciences, Vol. 217, 106985, 2022. IF: 6.772 Q1
