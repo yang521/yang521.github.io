@@ -27,10 +27,10 @@ Work experience
   
 Funding
 ======
-* National Natural Science Foundation of China No. 12201657 (2023.01-2025.12);
-* China Postdoctoral Science Foundation No. 2022M713639 (2022.09-2023.06);
+* National Natural Science Foundation of China No. 12201657 / 國家自然科學基金青年科學基金項目 (2023.01-2025.12);
+* China Postdoctoral Science Foundation No. 2022M713639 / 中國博士後科學基金面上項目 (2022.09-2023.06);
 * 2022 International Postdoctoral Exchange Fellowship Program (Talent-Introduction
-  Program) No. YJ20220221 (2022.09-2023.06).
+  Program) No. YJ20220221 / 2022年度博士後國際交流計劃引進項目 (2022.09-2023.06).
 
 Selected Publications (10 representative works)
 ======
