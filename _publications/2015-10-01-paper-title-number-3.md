@@ -33,3 +33,7 @@ in contact with solid, Journal of Computational Physics, Vol. 491, 112345, 2023.
 7. Junxiang Yang, Junseok Kim*, Phase-field simulation of multiple fluid vesicles with a consistently energy-stable implicit-explicit method, Computer Methods in Applied Mechanics and Engineering, Vol. 417, 116403, 2023. IF: 6.588 Q1
 
 8. Junxiang Yang*, Unconditionally energy-stable linear convex splitting algorithm for the 𝐿2 quasicrystals, Computer Physics Communications, Vol. 295, 108984, 2024. IF: 4.7177 Q1
+
+9. Junxiang Yang*, Surface phase-field surfactant fluid model and its practical closest point type finite difference computation， Computers & Mathematics with Applications, Vol. 154, 24-38, 2024. IF: 3.218 Q1
+
+10. Junxiang Yang, Junseok Kim*, An adapted energy dissipation law preserving numerical algorithm for a phase-field surfactant model, Computational and Applied Mathematics, accepted, in press IF: 2.6 Q1
