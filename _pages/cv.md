@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Applied Mathematics, Seoul, Korea University (高麗大學/韓國), 2021, Advisor: Prof. Junseok Kim
+  (Prof. Junseok Kim's Website is https://mathematicians.korea.ac.kr/cfdkim).
 
 Work experience
 ======
