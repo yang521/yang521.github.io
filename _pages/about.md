@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (MUST 澳門科技大學). Before he joined MUST, he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling. He has published 56 SCI papers as first or corresponding author from 2018.  
+Dr. Yang is an Assistant Professor in School of Computer Science and Technology / Faculty of Innovation Engineering at Macau University of Science and Technology (M.U.S.T. 澳門科技大學). Before he joined MUST, he was a postdoctoral researcher at Sun Yat-sen University (2021.12-2023.06). He obtained his doctoral degree in Applied Mathematics, Korea University, 2021 under the guidance of Prof. Junseok Kim. His research interests are Computational Multi-phase Fluid Dynamics, Phase-field Method, Numerical Simulations in Science and Engineering, and Mathematical Modeling. He has published 58 SCI papers as first or corresponding author from 2018.  
 
 If you are willing to join us, please contact me! My E-mail address is jxyang@must.edu.mo
 
@@ -64,5 +64,5 @@ For the students who want to study numerical simulations with me, the prerequisi
 
 Recently, I have prepared more than 40 research topics, 欢迎數學、力學、物理、計算機和機械工程類專業的本科同學報考碩士課程！招生長期有效！若有意向，請提前通過郵件 jxyang@must.edu.mo 聯繫我，謝謝關注！
 
-Note: 水利數字孿生將作為本課題組未來的研究方向之一，歡迎水利工程、土木工程和海洋工程等專業的同學報考！
+Note: 水利數字孿生將作為本課題組未來的研究方向之一，歡迎水利工程、土木工程、大气科学和海洋工程等專業的同學報考！
 
