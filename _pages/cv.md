@@ -65,6 +65,7 @@ Teaching at MUST
 * Physics
 * Professional Ethics and Communication Skills
 * Professional Introduction for Computer Science
+* Probability and Statistics
   
 Academic Service
 ======
